@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/bannerar.gif") no-repeat center;
+    background: url("bannerar.gif") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
